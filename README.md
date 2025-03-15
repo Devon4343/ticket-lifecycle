@@ -27,7 +27,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/sJicnjH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/icdMpyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this first step the ticket is created and user need there password reset to be able to ge into the project.
